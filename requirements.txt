@@ -1,3 +1,4 @@
 scrapy
 matplotlib
 networkx
+pygraphviz
